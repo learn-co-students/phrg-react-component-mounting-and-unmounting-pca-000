@@ -126,3 +126,4 @@ Called only once, just before the component is removed from the DOM:
 - [React: Component Specs and Lifecycle](https://facebook.github.io/react/docs/component-specs.html)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-component-mounting-and-unmounting'>Component Mounting And Unmounting</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Component Mounting and Unmounting</p>
